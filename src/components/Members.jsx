@@ -1,7 +1,5 @@
 import m1 from '../assets/m1.png';
 import m2 from '../assets/m2.png';
-import m3 from '../assets/m3.png';
-import m4 from '../assets/m4.png';
 import m5 from '../assets/m5.png';
 import m6 from '../assets/m6.png';
 import m7 from '../assets/m7.png';
