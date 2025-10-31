@@ -1,5 +1,5 @@
 import pic from "../assets/picbg.png";
-import Helpavatar from "../assets/Helpavatar.png";
+import Helpavatar from "../assets/helpavatar.png";
 import TestImg from "../assets/test.png";
 
 export default function Picablum() {
