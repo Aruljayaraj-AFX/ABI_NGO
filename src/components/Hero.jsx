@@ -1,10 +1,10 @@
 import Donatecoin from "../assets/donatecoin.png";
 import Logo from '../assets/Logo.png';
-import Heroimg from "../assets/Heroimg.png";
+import Heroimg from "../assets/heroimg.png";
 import Heart from "../assets/Heart.png";
 import About from "../assets/About_us.png";
-import Donate from "../assets/Donate1.png";
-import Paper from "../assets/Paper.png";
+import Donate from "../assets/donate1.png";
+import Paper from "../assets/paper.png";
 
 export default function Home() {
   return (
