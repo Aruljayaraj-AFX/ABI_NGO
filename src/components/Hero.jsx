@@ -1,4 +1,4 @@
-import Donatecoin from "../assets/Donatecoin.png";
+import Donatecoin from "../assets/donatecoin.png";
 import Logo from '../assets/Logo.png';
 import Heroimg from "../assets/Heroimg.png";
 import Heart from "../assets/Heart.png";
