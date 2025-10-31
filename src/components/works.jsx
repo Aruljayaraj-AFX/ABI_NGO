@@ -2,8 +2,8 @@ import Ellipse from "../assets/Ellipse.png";
 import card_sr from "../assets/service_gr.png";
 import Helpavatar from "../assets/helpavatar.png";
 import Earth from "../assets/world.png";
-import Group from "../assets/Group.png";
-import Correct from "../assets/Correct.png";
+import Group from "../assets/group.png";
+import Correct from "../assets/correct.png";
 import green from "../assets/1000green.png";
 
 export default function Works() {
